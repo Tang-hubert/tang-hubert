@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tang-hubert" alt="Tang-hubert" /></a> </p>
 
-- 🔭 I’m currently working on [daily-english-learning-Gemini](https://github.com/Tang-hubert/daily-english-learning-Gemini)
+<!-- - 🔭 I’m currently working on [daily-english-learning-Gemini](https://github.com/Tang-hubert/daily-english-learning-Gemini) -->
 
 - 🌱 I’m currently learning **Quantitative trading, RUST**
 
 - 👯 I’m looking to collaborate on **trading projects**
 
-- 🤝 I’m looking for help with [tw-fitx/fitx-trading](https://github.com/tw-fitx/fitx-trading)
+<!-- - 🤝 I’m looking for help with [tw-fitx/fitx-trading](https://github.com/tw-fitx/fitx-trading) -->
 
 - 📫 How to reach me **hubert112247@gmail.com**
 
