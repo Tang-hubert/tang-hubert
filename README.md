@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [daily-english-learning-Gemini](https://github.com/Tang-hubert/daily-english-learning-Gemini) -->
 
-- 🌱 I’m currently learning **Quantitative trading, RUST**
+- 🌱 I’m currently learning **Quantitative trading, C, RUST**
 
 - 👯 I’m looking to collaborate on **trading projects**
 
